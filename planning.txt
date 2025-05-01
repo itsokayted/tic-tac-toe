@@ -1,1 +1,7 @@
 This document is for planning out a game of Tic Tac Toe
+
+Models: What state wukk we need?
+- board variable that stores an array
+- whose turn is it can be stored ina turn variable as an'X' or 'O'
+- is there a winner? this value can be stored in a winner variable as a string
+- 
